@@ -4,7 +4,7 @@ import technicalindicators from "technicalindicators";
 import fs from "fs";
 
 // === CONFIGURAÇÕES ===
-const TELEGRAM_BOT_TOKEN = "7234385171:AAER1olpTjHrFqV8fO88gTXbmWAkX_4tMV4"; // Seu Bot Token
+const TELEGRAM_BOT_TOKEN = ""; // Seu Bot Token
 const TELEGRAM_CHAT_ID = "-1002545603959"; // Seu Chat ID
 const JSON_FILE = "gamma_levels_btc.json";
 const STRIKE_RANGE_0DTE = 0.1; // ±10% do spot para 0DTE
